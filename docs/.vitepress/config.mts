@@ -309,7 +309,7 @@ export default defineConfig({
 
   // 生成 sitemap.xml，供搜索引擎收录
   sitemap: {
-    hostname: 'https://3133q.github.io/ac-blog'
+    hostname: 'https://3133q.github.io/ac-blog/'
   },
 
   lastUpdated: true
